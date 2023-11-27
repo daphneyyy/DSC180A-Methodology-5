@@ -1,10 +1,7 @@
-# DSC180A-Methodology-5
+# DSC 180A Methodology 5
 
-## DSC180A-Methodology-5
-
-- Xuewen Yang
-- xuy001@ucsd.edu
-- DSC 180A Section A18
+- Xuewen Yang (xuy001@ucsd.edu)
+- Section A18
 - Brian Duke & Berk Ustun 
 
 1. What is the most interesting topic covered in your domain this quarter?
