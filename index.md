@@ -1,5 +1,3 @@
-# DSC 180A Methodology 5
-
 - Xuewen Yang (xuy001@ucsd.edu)
 - Section A18
 - Brian Duke & Berk Ustun 
